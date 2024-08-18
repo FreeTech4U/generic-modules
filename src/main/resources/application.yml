@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: generic-modules
+  ai:
+
+server:
+    port: 8083
